@@ -10,3 +10,6 @@ On Unix-Like systems it also should compile with
 
 g++ -c -O3 -s -ffast-math -std=gnu++11 -o main.o main.cpp
 g++ -o GameOfLife_Shaders main.o -lsfml-graphics -lsfml-system -lsfml-window
+
+Also you can find a x86_64 comaptible Linux build in this Repo. Just run
+./GameOfLife_Shaders
