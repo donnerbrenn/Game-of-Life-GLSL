@@ -17,4 +17,4 @@ g++ -o GameOfLife_Shaders main.o -lsfml-graphics -lsfml-system -lsfml-window
 Also you can find a x86_64 comaptible Linux build in this Repo. Just run
 ./GameOfLife_Shaders
 
-A little video, that shows, what it does: Video: https://www.youtube.com/watch?v=m7FhqVFKAJY
+A little video, that shows, what it does: https://www.youtube.com/watch?v=m7FhqVFKAJY
