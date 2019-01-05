@@ -1,6 +1,8 @@
 # Game-of-Life-GLSL
 Can we use GLSL Shaders to compute Conways Game of Life? Yes, we can! Also we use SFML for very easy access to shaders and OpenGL
 
+
+
 Just open the provided *.pro file with Qtcreator and compile or use gcc. The only external Dependency is SFML.
 https://www.sfml-dev.org/
 Make sure, that the SFML Headers and Binaries are in your path! (Windows users might change the *pro file for their needs)
@@ -14,3 +16,5 @@ g++ -o GameOfLife_Shaders main.o -lsfml-graphics -lsfml-system -lsfml-window
 
 Also you can find a x86_64 comaptible Linux build in this Repo. Just run
 ./GameOfLife_Shaders
+
+A little video, that shows, what it does: Video: https://www.youtube.com/watch?v=m7FhqVFKAJY
