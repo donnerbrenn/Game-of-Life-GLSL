@@ -34,8 +34,3 @@ DISTFILES += \
     vertex.glsl \
     fragment.glsl \
     display_fragment.glsl
-
-HEADERS += \
-    fragment.glsl.h \
-    vertex.glsl.h \
-    display_fragment.glsl.h
